@@ -1,1 +1,2 @@
-Python-Django project For Internship in Payme India
+This is an Office Management Project on Python & Django.
+
